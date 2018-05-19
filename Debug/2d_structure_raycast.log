@@ -1,5 +1,7 @@
 ﻿  main.cpp
-c:\users\user\documents\visual studio 2015\projects\2d_structure_raycast\2d_structure_raycast\main.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\user\documents\visual studio 2015\projects\2d_structure_raycast\2d_structure_raycast\main.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Field.cpp
+c:\users\user\documents\visual studio 2015\projects\2d_structure_raycast\2d_structure_raycast\field.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\2d_structure_raycast\2d_structure_raycast\field.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
   2d_structure_raycast.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\2d_structure_raycast\Debug\2d_structure_raycast.exe
   2d_structure_raycast.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\2d_structure_raycast\Debug\2d_structure_raycast.pdb (Full PDB)
