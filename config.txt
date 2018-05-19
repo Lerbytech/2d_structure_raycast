@@ -1,0 +1,7 @@
+#Field
+N = 100
+W = 10
+H = 10
+nodeW = 1.0
+nodeH = 1.0
+#Node
